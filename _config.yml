@@ -30,10 +30,14 @@ social:
     url: http://github.com/blackout314
   - title: bitbucket
     url: http://bitbucket.org/blackout314
+  - title: google-plus
+    url: https://plus.google.com/+carlodenaro
   - title: twitter
     url: http://twitter.com/carlodenaro
   - title: facebook
     url: https://www.facebook.com/carlodenarocom
+  - title: pinterest
+    url: https://www.pinterest.com/carlodenaro
 
 # Postal address (add as many lines as necessary)
 address:
@@ -41,7 +45,7 @@ address:
   - line: use the contact form
 
 # Credits content
-credits: '&bull; <a href="http://www.grayhats.org">GrayHats</a><br/>&bull; <a href="http://italyremote.com/">Italy Remote</a>'
+credits: '<a href="http://www.grayhats.org">GrayHats</a><br/><a href="http://italyremote.com/">Italy Remote</a>'
 
 # Build settings
 markdown: kramdown
