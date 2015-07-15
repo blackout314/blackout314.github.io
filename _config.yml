@@ -2,7 +2,7 @@
 title: Carlo Denaro
 email: me@carlodenaro.com
 url: https://blackout314.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Passionate and smart nerd, loves coding, new amazing tecnology and experiments."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,31 +15,33 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Carlo Denaro
+  location: Hire me
   social: Around the Web
-  credits: Credits
+  credits: Friends
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: http://it.linkedin.com/in/carlodenaro/
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/4428662/carlo-denaro
+  - title: github
+    url: http://github.com/blackout314
+  - title: bitbucket
+    url: http://bitbucket.org/blackout314
   - title: twitter
     url: http://twitter.com/carlodenaro
   - title: facebook
     url: https://www.facebook.com/carlodenarocom
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/4428662/carlo-denaro
-  - title: bitbucket
-    url: http://bitbucket.org/blackout314
-  - title: github
-    url: http://github.com/blackout314
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: You can hire me
+  - line: use the contact form
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '&bull; <a href="http://www.grayhats.org">GrayHats</a><br/>&bull; <a href="http://italyremote.com/">Italy Remote</a>'
 
 # Build settings
 markdown: kramdown
