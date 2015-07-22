@@ -9,7 +9,7 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 80B3FF
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -45,7 +45,7 @@ address:
   - line: use the contact form
 
 # Credits content
-credits: '<a href="http://www.grayhats.org">GrayHats</a><br/><a href="http://italyremote.com/">Italy Remote</a>'
+credits: '<a href="http://www.grayhats.org" target="_blank">GrayHats</a><br/><a href="http://italyremote.com/" target="_blank">Italy Remote</a>'
 
 # Build settings
 markdown: kramdown
