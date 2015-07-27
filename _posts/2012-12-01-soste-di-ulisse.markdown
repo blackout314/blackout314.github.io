@@ -8,7 +8,7 @@ project-date: December 2012
 client: Moviwork.com
 client-url: http://moviwork.com
 category: Web Development
-description: <a href="http://lesostediulisse.it/">le soste di ulisse</a>: the excellent restaurants, hotels and wineries in Sicily
+description: <a href="http://lesostediulisse.it/">le soste di ulisse</a>, the excellent restaurants, hotels and wineries in Sicily
 
 
 ---
