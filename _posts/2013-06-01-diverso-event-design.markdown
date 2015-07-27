@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2013-06-01
 img: diverso.png
 alt: diversoeventdesign.it
