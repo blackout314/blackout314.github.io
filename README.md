@@ -12,4 +12,7 @@
  * [freelancer](http://jekyllthemes.org/themes/freelancer/)
  * [gaya](http://jekyllthemes.org/themes/gaya/)
 
-### prova
+## TODO
+
+[X] Add ga
+[ ] Add events
